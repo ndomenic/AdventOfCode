@@ -13,8 +13,8 @@ for i in range(len(arr)):
     arr[i] = int(arr[i])
 
 #do the specified modification
-arr[1] = 12
-arr[2] = 2
+arr[1] = 40
+arr[2] = 19
 
 for i in range(len(arr)):
     #skip all items that are not operations
